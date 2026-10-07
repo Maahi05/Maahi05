@@ -2,11 +2,11 @@
 
   <!-- Dynamic Typing SVG Header -->
   <a href="https://github.com/Maahi05">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Hi+there!+%F0%9F%91%8B+I'm+Maahi;Full-Stack+Developer;Python+%26+JavaScript+Specialist;React+%2B+Node.js+%2B+Django" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Hi+there!+%F0%9F%91%8B+I'm+Maahi;Full-Stack+Developer;Competitive+Programmer;Python+%2B+Node.js+%2B+React" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <strong>Full-Stack Developer</strong> • <strong>Python & JS Specialist</strong> • <strong>Continuous Learner</strong>
+    <strong>Full-Stack Developer</strong> • <strong>Competitive Programmer</strong> • <strong>Problem Solver</strong>
   </p>
 
   <!-- Profile Visitor Counter & Status Badges -->
@@ -16,9 +16,11 @@
     <img src="https://img.shields.io/badge/Open%20to-Collaborations%20%26%20Opportunities-blue?style=flat-square" alt="Opportunities" />
   </p>
 
-  <!-- Social Links -->
+  <!-- Social & Coding Profiles -->
   <p align="center">
     <a href="https://github.com/Maahi05"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://leetcode.com/u/Mahith_07/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+    <a href="https://www.codechef.com/users/maahi_05"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
     <a href="mailto:adusumallimahi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 
@@ -28,10 +30,11 @@
 
 ### 🚀 About Me
 
-- 🔭 **Currently working on:** Full-stack web applications with Python, Django, React, and Node.js.
-- 🌱 **Currently exploring:** Advanced database architecture and performance optimization with MySQL.
-- 💬 **Ask me about:** Python, Django, JavaScript, React.js, Node.js, HTML/CSS, and MySQL.
-- ⚡ **Fun fact:** I love building clean, functional user experiences and solving backend logic puzzles.
+- 🔭 **Featured Project:** [Campus Placement Exam Portal](https://github.com/Maahi05/Campus_placement_exam) — An AI-proctored online examination platform with real-time video monitoring.
+- 🧠 **Competitive Programming:** Active problem solver on [LeetCode (@Mahith_07)](https://leetcode.com/u/Mahith_07/) and [CodeChef (@maahi_05)](https://www.codechef.com/users/maahi_05).
+- 🌱 **Currently exploring:** Advanced algorithms, scalable backend architectures, and database design.
+- 💬 **Ask me about:** Python, Django, React.js, Node.js, JavaScript, and MySQL.
+- ⚡ **Fun fact:** I love solving algorithmic challenges and building impactful full-stack applications.
 
 ---
 
@@ -54,6 +57,26 @@
   <img src="https://skillicons.dev/icons?i=vscode,git,github" alt="Developer Tools" />
 </p>
 
+</div>
+
+---
+
+### 🌟 Featured Projects
+
+| Project | Description | Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **🎓 [Campus Placement Exam Portal](https://github.com/Maahi05/Campus_placement_exam)** | AI-proctored online examination system with real-time video proctoring, face tracking, and secure exam workflows. | `React.js` `Node.js` `Express` `OpenCV` `Python` `SQLite` | [Repository](https://github.com/Maahi05/Campus_placement_exam) |
+| **⚡ Full-Stack Web App** | Modern web application featuring user authentication, RESTful APIs, and relational database schemas. | `Python` `Django` `React` `MySQL` | [Repository](https://github.com/Maahi05) |
+| **🛠️ Backend REST APIs** | Scalable Node.js & Express service handling CRUD operations with structured MySQL models. | `Node.js` `JavaScript` `MySQL` `Git` | [Repository](https://github.com/Maahi05) |
+
+---
+
+### 🏆 Competitive Programming
+
+<div align="center">
+  <a href="https://leetcode.com/u/Mahith_07/">
+    <img src="https://leetcard.jacoblin.cool/Mahith_07?theme=tokyonight&font=Fira%20Code" alt="LeetCode Stats" />
+  </a>
 </div>
 
 ---
@@ -86,21 +109,13 @@
 
 ---
 
-### 🌟 Featured Projects
-
-| Project | Description | Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **🚀 Full-Stack Web App** | Modern web application featuring user authentication, RESTful APIs, and relational data modeling. | `Django` `React.js` `MySQL` | [Repository](https://github.com/Maahi05) |
-| **⚡ Backend API Service** | Scalable Node.js & Express service handling CRUD operations with structured MySQL schemas. | `Node.js` `JavaScript` `MySQL` | [Repository](https://github.com/Maahi05) |
-| **🎨 Interactive Frontend Project** | Responsive and clean web UI built with semantic HTML5, modern CSS3, and dynamic React components. | `React.js` `HTML5` `CSS3` `JavaScript` | [Repository](https://github.com/Maahi05) |
-
----
-
 ### 🤝 Let's Connect!
 
 I'm always open to discussing new projects, open-source initiatives, or tech opportunities. Feel free to reach out:
 
 - **GitHub:** [@Maahi05](https://github.com/Maahi05)
+- **LeetCode:** [@Mahith_07](https://leetcode.com/u/Mahith_07/)
+- **CodeChef:** [@maahi_05](https://www.codechef.com/users/maahi_05)
 - **Email:** [adusumallimahi@gmail.com](mailto:adusumallimahi@gmail.com)
 
 <p align="center">
